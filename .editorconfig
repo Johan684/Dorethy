@@ -1,0 +1,4 @@
+﻿[*.vb]
+
+# BC42024: Unused local variable
+dotnet_diagnostic.BC42024.severity = warning
